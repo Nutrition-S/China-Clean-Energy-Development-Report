@@ -2,6 +2,7 @@
 目标：了解中国2010-2022年间清洁能源发展概况
 
 数据来源: https://github.com/owid/energy-data/    https://ourworldindata.org/energy
+https://github.com/Nutrition-S/China-Clean-Energy-Development-Report/blob/main/owid-energy-data.csv
 
 数据清理：筛选出country 为 china year：between 2010-2022 
          筛选出country 为 malaysia year：between 2010-2022 
